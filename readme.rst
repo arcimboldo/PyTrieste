@@ -1,6 +1,6 @@
-=====================
+=======
 Welcome
-=====================
+=======
 
 This is the repository for the School for Scientific Software Developement in Trieste, Italy. 
 
